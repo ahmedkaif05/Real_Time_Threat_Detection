@@ -1,0 +1,9 @@
+Dockerfile
+app/r.ipynb
+app/FaceId/test
+app/FaceId/faceid.ipynb
+app/FaceId/faceID.jpg
+app/FaceId/openCV_DNN_Custom/deploy.prototxt.txt
+app/FaceId/openCV_DNN_Custom/res10_300x300_ssd_iter_140000.caffemodel
+app/MotD/mot_test.ipynb
+app/MotD/test
